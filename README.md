@@ -77,5 +77,5 @@ This project, developed collaboratively by **Nursena Taşköprü** and **Kerem O
 
 ---
 
-## 📄 License
+##  License
 This project is released under the **MIT License**. Feel free to use, share, and adapt with proper attribution.
